@@ -1,5 +1,5 @@
 # state_of_open_funding_data_processing
-Data processing pipeline for the grant funding dataset underpinning IOI's *State of Open Infrastructure* (SoOI) report.
+Data processing pipeline for the grant funding dataset underpinning IOI's State of Open Infrastructure (SoOI) 2026 report.
 
 Full methodology, including pipeline steps, classifier design, and evaluation stats, is documented in the data deposit on Zenodo: [10.5281/zenodo.21401121](https://doi.org/10.5281/zenodo.21401121). This repo holds the code referenced there.
 
