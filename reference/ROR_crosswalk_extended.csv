@@ -1,0 +1,48 @@
+funder_ror,funder_raw,canonical_name,country_code,region,is_us_federal,n_awards,ror_lookup_ok
+https://ror.org/021nxhr62,National Science Foundation,U.S. National Science Foundation,US,US,TRUE,418,TRUE
+https://ror.org/018mejw64,Deutsche Forschungsgemeinschaft,Deutsche Forschungsgemeinschaft,DE,Europe,FALSE,100,TRUE
+https://ror.org/030prv062,Institute of Museum and Library Services,Institute of Museum and Library Services,US,US,TRUE,86,TRUE
+https://ror.org/00k4n6c32,European Commission,European Commission,BE,Europe,FALSE,63,TRUE
+https://ror.org/033jnv181,Department of Health and Human Services,United States Department of Health and Human Services,US,US,TRUE,60,TRUE
+https://ror.org/02vdm1p28,National Endowment for the Humanities,National Endowment for the Humanities,US,US,TRUE,59,TRUE
+https://ror.org/001aqnf71,UK Research and Innovation,UK Research and Innovation,GB,Europe,FALSE,38,TRUE
+https://ror.org/00hhkn466,Japan Society for the Promotion of Science,Japan Society for the Promotion of Science,JP,Rest of world,FALSE,37,TRUE
+https://ror.org/00snfqn58,"Fundação para a Ciência e a Tecnologia, I.P.",Fundação para a Ciência e Tecnologia,PT,Europe,FALSE,28,TRUE
+https://ror.org/04jsh2530,Andrew W. Mellon Foundation,Andrew W. Mellon Foundation,US,US,FALSE,24,TRUE
+https://ror.org/00rbzpz17,Agence Nationale de la Recherche | French National Research Agency (ANR),Agence Nationale de la Recherche,FR,Europe,FALSE,22,TRUE
+https://ror.org/02ymmdj85,Robert Wood Johnson Foundation,Robert Wood Johnson Foundation,US,US,FALSE,21,TRUE
+https://ror.org/029chgv08,The Wellcome Trust | Wellcome Trust,Wellcome Trust,GB,Europe,FALSE,20,TRUE
+https://ror.org/01cmst727,Simons Foundation,Simons Foundation,US,US,FALSE,20,TRUE
+https://ror.org/02ddkpn78,Fundação de Amparo à Pesquisa do Estado de São Paulo,Fundação de Amparo à Pesquisa do Estado de São Paulo,BR,Rest of world,FALSE,18,TRUE
+https://ror.org/00yjd3n13,Schweizerischer Nationalfonds zur Förderung der Wissenschaftlichen Forschung,Swiss National Science Foundation,CH,Europe,FALSE,17,TRUE
+https://ror.org/01cwqze88,National Institutes of Health,National Institutes of Health,US,US,TRUE,17,TRUE
+https://ror.org/02qenvm24,Chan Zuckerberg Initiative,Chan Zuckerberg Initiative (United States),US,US,FALSE,16,TRUE
+https://ror.org/0505m1554,Arts and Humanities Research Council,Arts and Humanities Research Council,GB,Europe,FALSE,12,TRUE
+https://ror.org/052csg198,Alfred P. Sloan Foundation,Alfred P. Sloan Foundation,US,US,FALSE,12,TRUE
+https://ror.org/04jsz6e67,Nederlandse Organisatie voor Wetenschappelijk Onderzoek,Dutch Research Council,NL,Europe,FALSE,11,TRUE
+https://ror.org/0439y7842,Engineering and Physical Sciences Research Council,Engineering and Physical Sciences Research Council,GB,Europe,FALSE,10,TRUE
+https://ror.org/01gavpb45,Canadian Institutes of Health Research,Canadian Institutes of Health Research,CA,Rest of world,FALSE,9,TRUE
+https://ror.org/027ka1x80,National Aeronautics and Space Administration,National Aeronautics and Space Administration,US,US,TRUE,8,TRUE
+https://ror.org/03n0ht308,Economic and Social Research Council,Economic and Social Research Council,GB,Europe,FALSE,6,TRUE
+https://ror.org/04j5jqy92,Social Sciences and Humanities Research Council | Social Sciences and Humanities Research Council of Canada,Social Sciences and Humanities Research Council,CA,Rest of world,FALSE,5,TRUE
+https://ror.org/051z6e826,Arcadia Fund,Arcadia Fund,GB,Europe,FALSE,4,TRUE
+https://ror.org/02ap3w078,Agencia Nacional de Investigación y Desarrollo,Agencia Nacional de Investigación y Desarrollo,CL,Rest of world,FALSE,3,TRUE
+https://ror.org/01kd5m353,Swedish Governmental Agency for Innovation Systems,Vinnova,SE,Europe,FALSE,3,TRUE
+https://ror.org/03zttf063,Swedish Research Council,Swedish Research Council,SE,Europe,FALSE,3,TRUE
+https://ror.org/01mp52y34,Heising Simons Foundation,Heising-Simons Foundation,US,US,FALSE,3,TRUE
+https://ror.org/03x94j517,Medical Research Council,Medical Research Council,GB,Europe,FALSE,3,TRUE
+NO_ROR:sergey_brin_family_foundation,Sergey Brin Family Foundation,Sergey Brin Family Foundation,US,US,FALSE,2,FALSE
+https://ror.org/05ar5fy68,Innovate UK,Innovate UK,GB,Europe,FALSE,2,TRUE
+https://ror.org/00cwqg982,Biotechnology and Biological Sciences Research Council,Biotechnology and Biological Sciences Research Council,GB,Europe,FALSE,2,TRUE
+https://ror.org/057g20z61,Science and Technology Facilities Council,Science and Technology Facilities Council,GB,Europe,FALSE,2,TRUE
+https://ror.org/01bj3aw27,U.S. Department of Energy,United States Department of Energy,US,US,TRUE,1,TRUE
+https://ror.org/00dxczh48,John D. and Catherine T. MacArthur Foundation,John D. and Catherine T. MacArthur Foundation,US,US,FALSE,1,TRUE
+https://ror.org/00x0z1472,Templeton World Charity Foundation,Templeton World Charity Foundation,BS,Rest of world,FALSE,1,TRUE
+https://ror.org/02jkbm893,Riksbankens Jubileumsfond,Stiftelsen Riksbankens Jubileumsfond,SE,Europe,FALSE,1,TRUE
+https://ror.org/02b5d8509,Natural Environment Research Council,Natural Environment Research Council,GB,Europe,FALSE,1,TRUE
+https://ror.org/01h531d29,Natural Sciences and Engineering Research Council of Canada,Natural Sciences and Engineering Research Council of Canada,CA,Rest of world,FALSE,1,TRUE
+https://ror.org/0447fe631,U.S. Department of Defense,United States Department of Defense,US,US,TRUE,1,TRUE
+https://ror.org/0456r8d26,Bill & Melinda Gates Foundation,Gates Foundation,US,US,FALSE,1,TRUE
+https://ror.org/04pz7b180,Bundesministerium für Bildung und Forschung,"Bundesministerium für Forschung, Technologie und Raumfahrt",DE,Europe,FALSE,1,TRUE
+https://ror.org/05k73zm37,Research Council of Finland,Research Council of Finland,FI,Europe,FALSE,1,TRUE
+https://ror.org/05mmh0f86,Australian Research Council (ARC),Australian Research Council,AU,Rest of world,FALSE,1,TRUE
